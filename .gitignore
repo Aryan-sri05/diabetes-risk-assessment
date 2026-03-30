@@ -1,0 +1,14 @@
+# Frontend
+diabetes-risk-frontend/node_modules
+diabetes-risk-frontend/.next
+
+# Backend
+diabetes-risk-backend/venv
+diabetes-risk-backend/__pycache__
+diabetes-risk-backend/*.pyc
+
+# Env
+.env
+
+# OS
+.DS_Store
